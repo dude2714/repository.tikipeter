@@ -1,0 +1,7 @@
+<addon>
+    <id>plugin.video.phoenix</id>
+    <name>Phoenix with Real Debrid and Cocoscrapers</name>
+    <version>1.0.0</version>
+    <provider name="dude2714" />
+    <description>Addon with Real Debrid support and Cocoscrapers integration.</description>
+</addon>
