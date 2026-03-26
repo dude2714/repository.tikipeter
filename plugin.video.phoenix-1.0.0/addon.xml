@@ -1,0 +1,8 @@
+<addon id="plugin.video.phoenix" version="1.0.0" name="Phoenix" provider-name="Dude2714">
+    <extension point="xbmc.python.module" library="phoenix.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary>A powerful Kodi plugin integrating Real Debrid and Cocoscrapers.</summary>
+        <description>This addon allows users to access high-quality streams using Real Debrid and Cocoscrapers.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
